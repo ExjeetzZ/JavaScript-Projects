@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Comparisons & Type Coercion</title>
+        <script src="JS/main.js"></script>
+        <script src="JS/example.js"></script>
+    </head>
+    <body>
+        <div>
+            <h1>JavaScript Comparisons & Type Coercion</h1>
+            <div>
+                <div>
+                    <h4>Is 0/0 NaN?</h4>
+                        <p id="Test" onclick="my_Function_Click()">Click me.</p>
+                    <h4>This is a string?</h4>
+                        <p id="Test2" onclick="my_Function_Click()">Click here </p>
+                    <h4> Is 007 NaN?</h4>
+                        <p id="Test3" onmouseover="my_Function_Hover()">Hover over me</p>
+                    <h4>How to display Infinity</h4>
+                        <p id="Test4" onmouseover="my_Function_Hover()">Hover over me</p>
+                    <h4>How to display -Infinity</h4>
+                        <p id="Test5" onmouseover="my_Function_Hover()">Hover over me</p>
+                </div>
+
+                
+                <div>
+                    <h2>Boolean</h2>
+                    <div>
+                        <h4>10 is greater than 9</h4>
+                            <p id="Boolean_1" onmouseover="bL()">Hover</p>
+                        <h4>10 is less than 9</h4>
+                            <p id="Boolean_2" onmouseover="bL()">Hover</p>
+                        <h4>10 is equal to 9</h4>
+                            <p id="Boolean_3" onmouseover="bL()">Hover</p>
+                        <h4>10 is equal to 10</h4>
+                            <p id="Boolean_3_1" onmouseover="bL()">Hover</p>
+                        <h4>10 is not equal to 9</h4>
+                            <p id="Boolean_4" onmouseover="bL()">Hover</p>
+                        <h4>10 is greater than or equal to 9</h4>
+                            <p id="Boolean_5" onmouseover="bL()">Hover</p>
+                    </div>
+<!-- Here onwards user has to idivually click "click me" to get an output-->
+ <!-- Note-->
+  <!-- These are indiviual unique functions with unique IDs-->
+                    <div>
+                        <h3> Triple Equal Sign</h3>
+                            <h4>10 === 10?</h4>
+                                <p id="equal" onclick="triple_Equal_Signs_1()">Click me</p>
+                            <h4>10 === "10"?</h4>
+                                <p id="equal2" onclick="triple_Equal_Signs_2()">Click me</p>
+                            <h4>10 === 10.0 ?</h4>
+                                <p id="equal3" onclick="triple_Equal_Signs_3()">Click me</p>
+                            <h4>10 === "10.0" ?</h4>
+                                <p id="equal4" onclick="triple_Equal_Signs_4()">Click me</p>
+                            <h4>X(10) === Y(10) ?</h4> <!-- X=10 Y=10, This will return true because both variables have the same value and type-->
+                                <p id="equal5" onclick="triple_Equal_Signs_5()">Click me</p>
+                            <h4>X(10) === Y("10") ?</h4>
+                                <p id="equal6" onclick="triple_Equal_Signs_6()">Click me</p>
+                    </div>
+
+                    <div>
+                        <h3> Logical Operators </h3>
+                            <h4>10 > 9 && 10 < 11 ?</h4>
+                                <p id="logical" onclick="logical_Operators_1()">Click me</p>
+                            <h4>10 > 9 && 10 > 11 ?</h4>
+                                <p id="logical2" onclick="logical_Operators_2()">Click me</p>
+                            <h4>10 > 9 || 10 < 11 ?</h4>
+                                <p id="logical3" onclick="logical_Operators_3()">Click me</p>
+                            <h4>10 > 9 || 10 > 11 ?</h4>
+                                <p id="logical4" onclick="logical_Operators_4()">Click me</p>
+                            <h4>!(10 > 9) ?</h4>
+                                <p id="logical5" onclick="logical_Operators_5()">Click me</p>
+                            <h4>!(10 < 9) ?</h4>
+                                <p id="logical6" onclick="logical_Operators_6()">Click me</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+                
+<!-- I wish there was a faster way to type repeated code-->
+                
+
+
+        
+    </body>
+</html>
