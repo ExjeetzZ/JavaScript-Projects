@@ -26,3 +26,10 @@ Project two
 # Update - 3
 *Dictionary*
 - KVP
+
+# Update - 4
+*Boolean*
+- Comparisons & Type Coercion
+- typeof operator
+- Expression combining a string and a number
+- Utilizing operators: ==, ===, >, <, &&, ||, !
