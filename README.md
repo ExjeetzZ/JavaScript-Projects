@@ -3,3 +3,26 @@ This Repository will be used to submit assignments as well as other JavaScript r
 
 # Initial
 Created the repository. 
+
+# Update - 1
+
+Project one 
+*Expression Alert*
+- Alert Window
+- String variables
+
+Project two
+*Functions*
+- Oneclick Attribute
+- Functions
+- Button
+
+# Update - 2
+*Math Operators*
+- Operand
+- Operators 
+- How to call a function in order to perform math arithmetic
+
+# Update - 3
+*Dictionary*
+- KVP
