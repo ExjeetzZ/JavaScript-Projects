@@ -33,3 +33,10 @@ Project two
 - typeof operator
 - Expression combining a string and a number
 - Utilizing operators: ==, ===, >, <, &&, ||, !
+
+# Update - 5
+*Ternary operators and Constructors*
+- Utilizes a ternary operation using input from the browser
+- Constructor function that uses the “new” and “this” keywords
+- Display the results of the constructor function within an HTML element
+- Utilize a nested function
