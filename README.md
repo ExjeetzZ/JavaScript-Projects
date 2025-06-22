@@ -52,3 +52,8 @@ Project two
 *String Methods*
 - Utilize concat, slice, toString, toPrecision methods
 - HTML elements that call and display functions
+
+# Update - 8 
+*Countdown & Slideshow*
+- Countdown Function
+- A basic slideshow using HTML, CSS, and JavaScript
