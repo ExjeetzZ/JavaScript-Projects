@@ -57,3 +57,4 @@ Project two
 *Countdown & Slideshow*
 - Countdown Function
 - A basic slideshow using HTML, CSS, and JavaScript
+- Added Defer Attribute
