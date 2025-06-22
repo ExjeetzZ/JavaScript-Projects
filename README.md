@@ -40,3 +40,10 @@ Project two
 - Constructor function that uses the “new” and “this” keywords
 - Display the results of the constructor function within an HTML element
 - Utilize a nested function
+
+# Update - 6
+*Scope Time Function*
+- Assigning Local and Global Variables
+- Function that includes an if statement
+- use the console.log() method to debug and error
+- Time function
