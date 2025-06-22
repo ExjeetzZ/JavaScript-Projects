@@ -47,3 +47,8 @@ Project two
 - Function that includes an if statement
 - use the console.log() method to debug and error
 - Time function
+
+# Update - 7
+*String Methods*
+- Utilize concat, slice, toString, toPrecision methods
+- HTML elements that call and display functions
