@@ -58,3 +58,43 @@ Project two
 - Countdown Function
 - A basic slideshow using HTML, CSS, and JavaScript
 - Added Defer Attribute
+
+# Update - 9
+*Loops and Arrays*
+- Utilize a while loop
+- Utilize a for loop
+- Utilize an array
+- Create an object using "let"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Template
+- Added Template Directory
+- Added basic HTML index file
+- Added empty JS files
