@@ -79,8 +79,12 @@ Fully functional and can perform
 - Division
 - All Clear Functionality 
 
-
-
+# Update - 12
+*Dynamic Pizza Menu*
+- Pizza size selection buttons
+- Topping options
+- List of all Toppings selected
+- Total Price
 
 
 
