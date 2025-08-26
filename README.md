@@ -70,6 +70,15 @@ Project two
 *Tic Tac Toe Project*
 - Fully Functional
 
+# Update - 11
+*Calculator Project*
+Fully functional and can perform 
+- Addition
+- Subtraction
+- Multiplication 
+- Division
+- All Clear Functionality 
+
 
 
 
