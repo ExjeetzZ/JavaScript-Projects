@@ -1,0 +1,89 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+}
+
+h1 {
+    color: #4d4d4d;
+    font-family: 'Helvetica', sans-serif;
+    text-align: center;
+}
+
+h3 {
+    font-family: 'Times New Roman', Times, serif;
+    color: #000000;
+}
+
+div {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #000000;
+}
+
+#menuBG {
+    width: 600px;
+    height: 470px;
+    margin: 0px auto;
+    }
+
+#frmMenu {
+    width: 400px;
+    height: 200px;
+    padding: 0px 0px 0px 60px;
+    }
+
+#totalPrice {
+    width: 200px;
+    height: 190px;
+    margin: 80px auto;
+    float: right;
+    padding: 290px 0px 0px 0px;
+    }
+
+#containerRow {
+    display: inline-block;
+    width: 600px;
+    height: 200px;
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 0px 0px 0px;
+}
+
+.left {
+    width: 200px;
+    height: 200px;
+    float: left;
+    }
+
+.center {
+    width: 200px;
+    height: 200px;
+    float: center;
+    }
+
+.right {
+    width: 200px;
+    height: 200px;
+    float: right;
+    }
+
+#showText {
+    width: 200px;
+    height: 190px;
+    margin: 0px auto;
+    float: left;
+    padding: 79px 0px 0px 0px;
+    }
+
+#cart {
+    top: 0;margin:0px auto;
+    width: 400px;
+    height: 200px;
+    }
+
+#btnOrder {
+    margin: 10px 0px 0px 100px;
+    width:100px;
+    height: 40px;
+    display: block;
+    margin: 25px auto;
+    }
