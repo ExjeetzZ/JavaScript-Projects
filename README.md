@@ -66,7 +66,9 @@ Project two
 - Utilize an array
 - Create an object using "let"
 
-
+ # Update - 10
+*Tic Tac Toe Project*
+- Fully Functional
 
 
 
